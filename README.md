@@ -1,2 +1,2 @@
 # Plantt
-IDEAthon project front end 
+micro savings website to help build savings culture among people
